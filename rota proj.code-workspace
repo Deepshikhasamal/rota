@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../OneDrive/Desktop/rota proj"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "rota proj",
+		"liveServer.settings.port": 5501
+	}
+}
